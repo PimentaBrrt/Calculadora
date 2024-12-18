@@ -1,5 +1,5 @@
 # Calculadora
-Minha primeira calculadora que fiz em python, utilizando tkinter, meses atrás.
+Minha primeira calculadora que fiz em python, utilizando tkinter, meses atrás. Sei que é bem básico, mas foi um dos marcos que tive na minha jornada até o momento.
 
 # Como utilizar
 Ao executar o código, será aberta uma nova janela, uma interface gráfica da calculadora.
